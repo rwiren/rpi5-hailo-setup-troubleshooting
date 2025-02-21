@@ -1,0 +1,16 @@
+/usr/include/hailo/tappas/sources/xtensor/docs/environment.yml
+/usr/include/hailo/tappas/sources/xtensor/environment.yml
+/usr/include/hailo/tappas/sources/xtensor/readthedocs.yml
+/usr/include/hailo/tappas/sources/xtensor/environment-dev.yml
+/usr/include/hailo/tappas/sources/xtensor/azure-pipelines.yml
+/usr/include/hailo/tappas/sources/xtensor-blas/docs/environment.yml
+/usr/include/hailo/tappas/sources/xtensor-blas/readthedocs.yml
+/usr/include/hailo/tappas/sources/xtensor-blas/environment-dev.yml
+/usr/include/hailo/tappas/sources/xtensor-blas/azure-pipelines.yml
+/usr/include/hailo/tappas/sources/rapidjson/appveyor.yml
+/usr/include/hailo/tappas/sources/Catch2/appveyor.yml
+/usr/include/hailo/tappas/sources/Catch2/codecov.yml
+/usr/include/hailo/tappas/sources/xtl/docs/environment.yml
+/usr/include/hailo/tappas/sources/xtl/readthedocs.yml
+/usr/include/hailo/tappas/sources/xtl/environment-dev.yml
+/usr/include/hailo/tappas/sources/xtl/azure-pipelines.yml

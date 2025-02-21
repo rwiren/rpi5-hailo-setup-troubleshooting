@@ -1,0 +1,6 @@
+/home/riku/hailo_env/lib/python3.11/site-packages/torch/_export/serde/schema.yaml
+/home/riku/hailo_env/lib/python3.11/site-packages/torchgen/packaged/autograd/derivatives.yaml
+/home/riku/hailo_env/lib/python3.11/site-packages/torchgen/packaged/autograd/deprecated.yaml
+/home/riku/hailo_env/lib/python3.11/site-packages/torchgen/packaged/ATen/native/tags.yaml
+/home/riku/hailo_env/lib/python3.11/site-packages/torchgen/packaged/ATen/native/native_functions.yaml
+/usr/include/hailo/tappas/sources/xtensor/docs/environment.yaml

@@ -1,0 +1,15 @@
+/usr/share/rpi-camera-assets/hailo_yolov8_inference.json:        "hef_file_8L": "/usr/share/hailo-models/yolov8s_h8l.hef",
+/usr/share/rpi-camera-assets/hailo_yolov8_inference.json:        "hef_file_8": "/usr/share/hailo-models/yolov8s_h8.hef",
+/usr/share/rpi-camera-assets/hailo_scrfd.json:        "hef_file": "/usr/share/hailo-models/scrfd_2.5g_h8l.hef"
+/usr/share/rpi-camera-assets/hailo_yolov6_inference.json:        "hef_file_8L": "/usr/share/hailo-models/yolov6n_h8l.hef",
+/usr/share/rpi-camera-assets/hailo_yolov6_inference.json:        "hef_file_8": "/usr/share/hailo-models/yolov6n_h8.hef",
+/usr/share/rpi-camera-assets/hailo_classifier.json:        "hef_file": "/usr/share/hailo-models/resnet_v1_50_h8l.hef"
+/usr/share/rpi-camera-assets/hailo_yolov8_pose.json:        "hef_file_8L": "/usr/share/hailo-models/yolov8s_pose_h8l_pi.hef",
+/usr/share/rpi-camera-assets/hailo_yolov8_pose.json:        "hef_file_8": "/usr/share/hailo-models/yolov8s_pose_h8.hef"
+/usr/share/rpi-camera-assets/hailo_yolov5_segmentation.json:        "hef_file_8L": "/usr/share/hailo-models/yolov5n_seg_h8l_mz.hef",
+/usr/share/rpi-camera-assets/hailo_yolov5_segmentation.json:        "hef_file_8": "/usr/share/hailo-models/yolov8m_seg_h8.hef",
+/usr/share/rpi-camera-assets/hailo_yolov5_personface.json:        "hef_file": "/usr/share/hailo-models/yolov5s_personface_h8l.hef",
+/usr/share/rpi-camera-assets/hailo_yolox_inference.json:        "hef_file": "/usr/share/hailo-models/yolox_s_leaky_h8l_rpi.hef",
+/usr/share/rpi-camera-assets/hailo_pose_inf_fl.json:        "hef_file": "/usr/share/hailo-models/yolov8s_pose_h8.hef"
+/usr/share/rpi-camera-assets/hailo_pose_inf_fl.json:        "hef_file": "/usr/share/hailo-models/yolov8s_h8.hef",
+/usr/share/rpi-camera-assets/hailo_pose_inf_fl.json:        "hef_file": "/usr/share/hailo-models/scrfd_2.5g_h8l.hef"

@@ -1,0 +1,19 @@
+{
+    "inputs": [
+        {
+            "name": "input_layer",
+            "shape": [1, 3, 640, 640],
+            "format": "BGR"
+        }
+    ],
+    "outputs": [
+        {
+            "name": "output_layer",
+            "shape": [1, 25200, 8],
+            "format": "ANY"
+        }
+    ],
+    "hailo": {
+        "hef_path": "/usr/share/hailo-models/yolov5s_personface_h8l.hef"
+    }
+}
